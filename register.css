@@ -1,0 +1,183 @@
+body{
+    background-color: black;
+    margin:0px;
+    padding:0px;
+  }
+  .header{
+    top:0px;
+     position:fixed;
+     background-color:black;
+    width:100%
+    
+  }
+  .logo1{
+    height:110px;
+    width:210px;
+  }
+  .nav{
+    float:right;
+    margin-top:20px;
+   
+    margin-right:650px;
+    
+  }
+  .nav a {
+      float:left;
+      color: #f2f2f2;
+      text-align:start;
+      margin-left:0px;
+      padding: 25px 30px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    .nav a:hover{
+      color:black;
+      background-color: #f2f2f2;
+  
+    }
+    .loginform{
+      position:absolute;
+      margin-left: 22%;
+      margin-top:10%;
+
+      background-color: white;
+      width:850px;
+      height:500px;
+      border-radius: 20px;
+  }
+  #adjust{
+      position: absolute;
+      margin-left:-60px;
+  }
+  #sat{
+      color: darkgrey;
+      position: absolute;
+      margin-left: 610px;
+      margin-top: 25px;
+  }
+  #reg{
+      text-decoration: none;
+  }
+  h2{
+      margin-left: 400px;
+      margin-top: 70px;
+      font-size: 35px;
+  }
+  #registerform{
+      position: absolute;
+      margin-left: 350px;
+      margin-top: 7px;
+
+  }
+  #username
+  {
+    margin-top:-25px;
+  }
+ #userrname{
+   position: absolute;
+   margin:-10px;
+   margin-left: 1px;
+   background-color:#E5E4E2 ;
+   width:300px;
+   height:20px;
+ }
+ #usermail
+  {
+    margin-top:40px;
+  }
+ #userrmail{
+   position: absolute;
+   margin:-10px;
+   margin-left: 1px;
+   background-color:#E5E4E2 ;
+   width:300px;
+   height:20px;
+ }
+ #usernumberr
+ {
+  position: absolute;
+  margin-top:20px;
+ }
+
+#userrnumber
+{
+  position: absolute;
+margin-top:43px;
+background-color:#E5E4E2 ;
+   width:300px;
+   height:20px;
+ }
+
+#userpassword
+{
+  position: absolute;
+  margin-top:80px;
+}
+#userpasswordd{
+  position: absolute;
+margin-top:105px;
+background-color:#E5E4E2 ;
+   width:300px;
+   height:20px;
+}
+button{
+  background-color: #4dd0E1;
+  position: absolute;
+  margin-left: 55px;
+ margin-top:180px;
+ width:350px;
+  height:40px;
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: 15px;
+  color: white;
+  font-weight: bolder;
+}
+button:hover
+    {
+        background-color:#ff5252;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .footer{
+      background-color: #fdb71a;
+      width:100%;
+      height: 70px;
+      margin-top: 50%;
+    }
+    #ft{
+      color: black;
+      font-weight: bolder;
+      font-size: 30px;
+      position: absolute;
+      margin-top: 15px;
+      margin-left:300px;
+
+    }
